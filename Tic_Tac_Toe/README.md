@@ -343,3 +343,9 @@ play_game()
 # Playing LOL!!!!😁
 ## Winning🥇
 ![WON](https://github.com/samudralaAbhiramrao/python-projects-Abhiram/blob/main/Tic_Tac_Toe/output_Images/won.png "Payer_won")
+
+## Verifcation of conditions💡
+![Verifications](https://github.com/samudralaAbhiramrao/python-projects-Abhiram/blob/main/Tic_Tac_Toe/output_Images/verifyingConditions.png "Verifying conditions")
+
+## TIE🎀
+![Tie](https://github.com/samudralaAbhiramrao/python-projects-Abhiram/blob/main/Tic_Tac_Toe/output_Images/TIE.png "Tie")
